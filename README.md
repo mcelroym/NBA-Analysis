@@ -3,4 +3,4 @@ NBA Functions.R
 - A series of functions to pull NBA data from basketball-reference.com
 
 Bet Simulation.R
-- Simulations to predict the spread and moneyline and future games.
+- Simple simulation to predict the spread and moneyline of future games.
