@@ -1,4 +1,7 @@
 # NBA-Data-Puller
+
+This is a respository for code I've written to gather and explore NBA data.
+
 NBA Functions.R
 - A series of functions to pull NBA data from basketball-reference.com
 
