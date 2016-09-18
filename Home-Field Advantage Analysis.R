@@ -53,7 +53,6 @@ ggplot(df.home, aes(PT.diff)) +
 
 t.test(df.home$PT.diff)
 
-
 ########################################
 # Parse HC Advantage by team/year
 ########################################
@@ -100,21 +99,3 @@ ggplot(df[df$Home == TRUE,], aes(season,PT.diff, fill = season)) +
   ylab("Home Court Point Advantage") +
   xlab("Season") +
   theme(legend.position = "none")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
