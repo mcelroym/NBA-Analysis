@@ -86,8 +86,6 @@ ggplot(pd.data[!is.na(pd.data$season_2016),c(1,11)],
   theme(legend.position="none",
         axis.title.x = element_blank())
 
-
-
 ########################################
 # Home Field Advantage over the Years
 ########################################
